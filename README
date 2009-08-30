@@ -1,0 +1,8 @@
+Sample Tabs Plugin for Fat Free CRM
+http://github.com/michaeldv/crm_sample_tabs/tree/master
+
+This plugin demonstrates how to add new custom tabs to Fat Free CRM (http://www.fatfreecrm.com).
+It also shows how to rearrange and delete existing tabs. Requires Fat Free CRM version 0.9.7 or later.
+
+
+Copyright (c) 2009 by Michael Dvorkin, released under the MIT license
